@@ -66,6 +66,7 @@ python main.py cdn baidu.com
 
 #### 目录结构(有点烂但后续会修改)
 
+```
 RunWarCanCan/
 ├── documents/ # 文档目录
 ├── services/ # 各查询模块
@@ -87,6 +88,7 @@ RunWarCanCan/
 ├── main.py # 程序主入口
 ├── README.md
 └── requirements.txt
+```
 
 #### 致谢
 
