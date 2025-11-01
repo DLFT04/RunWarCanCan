@@ -1,0 +1,10 @@
+{
+    "level": "DEBUG",
+    "use_color": true,
+    "output_json": false,
+    "name": null,
+    "log": true,
+    "log_path": "./log",
+    "proxy": null,
+    "show_logo": true
+}
